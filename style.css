@@ -1,0 +1,15 @@
+body
+{
+ text-align:center;
+     font-size:30px;
+}
+img
+{
+    height:400px;
+    width:400px;
+    border-style:solid;
+    border-radius:25px;
+    border-width:20px;
+    border-color:black;
+    
+}
